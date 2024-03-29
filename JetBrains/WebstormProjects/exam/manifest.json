@@ -1,0 +1,160 @@
+{
+  "name": "My Awesome App",
+  "short_name": "AwesomeApp",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "url": "public/assets/images/banner-01.jpg",
+      "filename": "banner-01.jpg",
+      "size": 662731,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/banner-02.jpg",
+      "filename": "banner-02.jpg",
+      "size": 349974,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/banner-03.jpg",
+      "filename": "banner-03.jpg",
+      "size": 293046,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/contact-bg.jpg",
+      "filename": "contact-bg.jpg",
+      "size": 117272,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/deal-01.jpg",
+      "filename": "deal-01.jpg",
+      "size": 101287,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/deal-02.jpg",
+      "filename": "deal-02.jpg",
+      "size": 83956,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/deal-03.jpg",
+      "filename": "deal-03.jpg",
+      "size": 113306,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/email-icon.png",
+      "filename": "email-icon.png",
+      "size": 2668,
+      "extension": ".png"
+    },
+    {
+      "url": "public/assets/images/featured-icon.png",
+      "filename": "featured-icon.png",
+      "size": 3602,
+      "extension": ".png"
+    },
+    {
+      "url": "public/assets/images/featured.jpg",
+      "filename": "featured.jpg",
+      "size": 111171,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/info-icon-01.png",
+      "filename": "info-icon-01.png",
+      "size": 3084,
+      "extension": ".png"
+    },
+    {
+      "url": "public/assets/images/info-icon-02.png",
+      "filename": "info-icon-02.png",
+      "size": 3978,
+      "extension": ".png"
+    },
+    {
+      "url": "public/assets/images/info-icon-03.png",
+      "filename": "info-icon-03.png",
+      "size": 3376,
+      "extension": ".png"
+    },
+    {
+      "url": "public/assets/images/info-icon-04.png",
+      "filename": "info-icon-04.png",
+      "size": 4590,
+      "extension": ".png"
+    },
+    {
+      "url": "public/assets/images/page-heading-bg.jpg",
+      "filename": "page-heading-bg.jpg",
+      "size": 76311,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/phone-icon.png",
+      "filename": "phone-icon.png",
+      "size": 3821,
+      "extension": ".png"
+    },
+    {
+      "url": "public/assets/images/property-01.jpg",
+      "filename": "property-01.jpg",
+      "size": 71440,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/property-02.jpg",
+      "filename": "property-02.jpg",
+      "size": 76532,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/property-03.jpg",
+      "filename": "property-03.jpg",
+      "size": 58929,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/property-04.jpg",
+      "filename": "property-04.jpg",
+      "size": 52471,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/property-05.jpg",
+      "filename": "property-05.jpg",
+      "size": 52361,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/property-06.jpg",
+      "filename": "property-06.jpg",
+      "size": 44686,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/single-property.jpg",
+      "filename": "single-property.jpg",
+      "size": 237765,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/video-bg.jpg",
+      "filename": "video-bg.jpg",
+      "size": 91807,
+      "extension": ".jpg"
+    },
+    {
+      "url": "public/assets/images/video-frame.jpg",
+      "filename": "video-frame.jpg",
+      "size": 258920,
+      "extension": ".jpg"
+    }
+  ]
+}
